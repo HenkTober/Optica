@@ -43,5 +43,4 @@ parts:
   - caption: Informatie
     chapters:
     - file: references.md
-    - file: changelog.md
     - file: credits.md
