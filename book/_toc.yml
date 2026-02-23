@@ -9,8 +9,7 @@ parts:
     style: numerical                # Default value (line can be removed), style of numbering for this part, configuration part of TeachBooks' version of sphinx-external-toc (https://github.com/TeachBooks/sphinx-external-toc?tab=readme-ov-file#toc-tree-options)
     restart_numbering: false        # Default value (line can be removed), whether to restart numbering for this part, configuration part of TeachBooks' version of sphinx-external-toc (https://github.com/TeachBooks/sphinx-external-toc?tab=readme-ov-file#toc-tree-options)
     chapters:
-    - file: diffractie_tralie_phasoren_deelcode.ipynb
-    - file: diffractie_tralie_phasoren_helecode.ipynb
+    - file: diffractie_tralie_phasoren_v2.ipynb
     - file: reflectie_en_transmissie_start.ipynb
   - caption: Hoe maak je je eigen Teachbook
     chapters:
